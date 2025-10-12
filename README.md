@@ -9,7 +9,11 @@
 3. CP: (1)论文++ **CP光学加密**  "[Large-scale scattering-augmented optical encryption](https://www.nature.com/articles/s41467-024-54168-3)(Nature Communications,2024) {[code](https://github.com/bianlab/Scatterencryption)}";<br>
 **CP大规模和高时空分辨率**  "[Ptychographic sensor for large-scaleleusless,mnicrobial monitoring with high spatiotemporal resolution](https://www.sciencedirect.com/science/article/pii/S0956566321007363?casa_token=6EAjS40T9bMAAAAA:khFNZG5CdhMCaCB_GIv9vzJTWXrSuqIPmweI783xiYdytUlCmM4aZVDB_C4y-Oro6m_vlGVASw)(Biosensors and Bioelectronics,2021)"
 4. WSI: (1)论文++ **全切片成像方法研究_郭成飞** <br>
-5. 相位恢复算法/ptychography (1) **PIE算法的改进** "Further improvements to the ptychographical iterative engine"
+5. * 相位恢复算法/ptychography: (1) **PIE算法的改进** "Further improvements to the ptychographical iterative engine" <br>
+   * 相位恢复算法/全息:         (1) **超分** "Generalized optimization framework for pixel super-resolution imaging in digital holography";<br>
+   (2) **稀疏正则化** "Iterative projection meets sparsity regularization: towards practical single-shot quantitative phase imaging with in-line holography"
+   
+   
 
 ## 2025.10.11
 
