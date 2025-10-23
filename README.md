@@ -17,7 +17,7 @@
 
 ## 2025.10.11
 
-1. FP：(1)论文++ **特征域FP, CP, and Single-Pixel Imaging**  "[High-Fidelity Computational Microscopy via Feature-Domain Phase Retrieval](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202413975)(Advanced Science,2025) {[code](https://github.com/THUHoloLab/feature-domain-phase-retrieval)}"; <br>
+1. FP：(1)论文++ **特征域FP, CP, and Single-shot holography Imaging**  "[High-Fidelity Computational Microscopy via Feature-Domain Phase Retrieval](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202413975)(Advanced Science,2025) {[code](https://github.com/THUHoloLab/feature-domain-phase-retrieval)}"; <br>
 **特征域** "[FPM-WSI: Fourier ptychographic whole slide imaging via feature-domain backdiffraction](https://opg.optica.org/abstract.cfm?uri=optica-11-5-634)(Optica,2024){code同上}"<br>
 (2)博士论文++ **高分辨率大视场快速傅里叶叠层显微成像方法研究_潘安** <br>
 (3)添加了**Natural products的代码** <br>
