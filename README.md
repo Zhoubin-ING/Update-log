@@ -3,6 +3,9 @@
 [2025.10.12](##2025.10.12)<br>
 [2025.10.11](##2025.10.11)<br>
 
+## 2025.11.8
+1. FP: (1)论文++
+2. CP:
 ## 2025.10.12
 1. FP: (1)论文++ **FP神经网络物理模型** "[Solving Fourier ptychographic imaging problems via neural network modeling and TensorFlow](https://opg.optica.org/boe/fulltext.cfm?uri=boe-9-7-3306)(Biomedical Optics Express,2018)"; <br>
 **自适应步长算法** "Adaptive step-size strategy for noise-robust Fourier ptychographic microscopy"
