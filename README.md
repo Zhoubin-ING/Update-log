@@ -4,13 +4,16 @@
 [2025.10.11](##2025.10.11)<br>
 
 ## 2025.11.8
-1. FP: (1)论文++
-2. CP:
+1. FP: (1)论文++ **特征域DUV-FP** "Deep-ultraviolet Fourier ptychography (DUV-FP) for labelfree biochemical imaging via feature-domain optimization";<br>
+**潜在波前** "Latent-wavefront Fourier ptychography for stained tissue microscopy";<br>
+**ADMM-FP** "Fourier Ptychographic Microscopy via Alternating Direction Method of Multipliers"<br>
+2. * 相位恢复算法/全息: (1)**时空正则化反演**"Motion-resolved, reference-free holographic imaging via spatiotemporally regularized inversion"<br>
+
 ## 2025.10.12
-1. FP: (1)论文++ **FP神经网络物理模型** "[Solving Fourier ptychographic imaging problems via neural network modeling and TensorFlow](https://opg.optica.org/boe/fulltext.cfm?uri=boe-9-7-3306)(Biomedical Optics Express,2018)"; <br>
+1. FP: (1)论文++ **FP神经网络物理模型** [Solving Fourier ptychographic imaging problems via neural network modeling and TensorFlow](https://opg.optica.org/boe/fulltext.cfm?uri=boe-9-7-3306)(Biomedical Optics Express,2018)"; <br>
 **自适应步长算法** "Adaptive step-size strategy for noise-robust Fourier ptychographic microscopy"
 3. CP: (1)论文++ **CP光学加密**  "[Large-scale scattering-augmented optical encryption](https://www.nature.com/articles/s41467-024-54168-3)(Nature Communications,2024) {[code](https://github.com/bianlab/Scatterencryption)}";<br>
-**CP大规模和高时空分辨率**  "[Ptychographic sensor for large-scaleleusless,mnicrobial monitoring with high spatiotemporal resolution](https://www.sciencedirect.com/science/article/pii/S0956566321007363?casa_token=6EAjS40T9bMAAAAA:khFNZG5CdhMCaCB_GIv9vzJTWXrSuqIPmweI783xiYdytUlCmM4aZVDB_C4y-Oro6m_vlGVASw)(Biosensors and Bioelectronics,2021)"
+**CP大规模和高时空分辨率**  "[Ptychographic sensor for large-scaleleusless,mnicrobial monitoring with high spatiotemporal resolution](https://www.sciencedirect.com/science/article/pii/S0956566321007363?casa_token=6EAjS40T9bMAAAAA:khFNZG5CdhMCaCB_GIv9vzJTWXrSuqIPmweI783xiYdytUlCmM4aZVDB_C4y-Oro6m_vlGVASw)(Biosensors and Bioelectronics,2021)"<br>
 4. WSI: (1)论文++ **全切片成像方法研究_郭成飞** <br>
 5. * 相位恢复算法/ptychography: (1) **PIE算法的改进** "Further improvements to the ptychographical iterative engine" <br>
    * 相位恢复算法/全息:         (1) **超分** "Generalized optimization framework for pixel super-resolution imaging in digital holography";<br>
