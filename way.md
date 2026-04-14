@@ -1,8 +1,8 @@
 # 光学成像基础
 ## 第一节：绪论
 1. 光学成像关键技术概览 
-   [《计算光学成像：何来，何处，何去，何从？》_左超](https://kns.cnki.net/kcms2/article/abstract?v=RTWLtMhoy7SpjYkMx2hQ6Ugl6Tv8TIQYHVQ5Squio4sD4frkyBdd_DlMUTWSx40pYL1MjBDnmXNjtuQFY8J5jHwZD-SUn4fZUEr2ikhGn-WIBOATiX2MosJteY1bGjnYCYIPG5I9HlfIGYcCBkIswX_2ihG_xlIQz8h9cf1Ye4ZW5QkPRuMfBw==&uniplatform=NZKPT&language=CHS) 
-   [《非干涉定量相位显微成像的传递函数调控：理论、方法与应用(特邀)》](https://kns.cnki.net/kcms2/article/abstract?v=RTWLtMhoy7SKeS0cZYJr5SvwSl7q19cofc2lOZbGlAfIL3osuzw9sn-AaeyHFgkxorGT2Mn41rDlDYeQJ20L-FzVDW99Re7w4ZI-nQ0MpLzQ5n370Q-PHK32bdI-H3xjb8T7sw8V04EoaWUGJ7e2WoIO2_w3pvm8BqzFUVMqZC-3yYuet3BWng==&uniplatform=NZKPT&language=CHS)
+   [《计算光学成像：何来，何处，何去，何从？》_左超](https://kns.cnki.net/kcms2/article/abstract?v=RTWLtMhoy7SpjYkMx2hQ6Ugl6Tv8TIQYHVQ5Squio4sD4frkyBdd_DlMUTWSx40pYL1MjBDnmXNjtuQFY8J5jHwZD-SUn4fZUEr2ikhGn-WIBOATiX2MosJteY1bGjnYCYIPG5I9HlfIGYcCBkIswX_2ihG_xlIQz8h9cf1Ye4ZW5QkPRuMfBw==&uniplatform=NZKPT&language=CHS) <br>
+   [《非干涉定量相位显微成像的传递函数调控：理论、方法与应用(特邀)》](https://kns.cnki.net/kcms2/article/abstract?v=RTWLtMhoy7SKeS0cZYJr5SvwSl7q19cofc2lOZbGlAfIL3osuzw9sn-AaeyHFgkxorGT2Mn41rDlDYeQJ20L-FzVDW99Re7w4ZI-nQ0MpLzQ5n370Q-PHK32bdI-H3xjb8T7sw8V04EoaWUGJ7e2WoIO2_w3pvm8BqzFUVMqZC-3yYuet3BWng==&uniplatform=NZKPT&language=CHS)<br>
  
    
 ## 第二节：光学成像理论基础
@@ -25,14 +25,14 @@ Matlab为主
 # 傅里叶叠层成像
 ## 第一节：基本原理
 《Wide-field, high-resolution Fourier ptychographic
-microscopy》
-《高分辨率大视场快速傅里叶叠层显微成像方法研究》_潘安
-《Spatial- and Fourier-domain ptychography for high throughput bio-imaging》
+microscopy》<br>
+《高分辨率大视场快速傅里叶叠层显微成像方法研究》_潘安<br>
+《Spatial- and Fourier-domain ptychography for high throughput bio-imaging》<br>
 ## 第二节：代码实践
 《Fourier Ptychographic Imaging A MATLAB® tutorial》
 # 编码叠层成像
 ## 第一节：基本原理
-《Spatial- and Fourier-domain ptychography for high throughput bio-imaging》
+《Spatial- and Fourier-domain ptychography for high throughput bio-imaging》<br>
    [《无透镜编码叠层显微成像原理及研究进展（特邀）》](https://kns.cnki.net/kcms2/article/abstract?v=RTWLtMhoy7TSqHTdWDOTWlAfurJ9J2S4TvG1v3JzGugoQCXLWv__E6yz-55T3k_rZYTU-r3jOg1-XjoZQ_iMbnHPY4RjgfQJZPwSdzyL52nRE8pDkRqx80EGecF4-4rtVXk5RUtigV5a8fKYnrtlJj0gHbHypLcfWL5GT5B4J6JxsS-y4PTPFw==&uniplatform=NZKPT&language=CHS)  
 ## 第二节：代码实践
 《Spatial- and Fourier-domain ptychography for high throughput bio-imaging》
