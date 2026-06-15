@@ -1,16 +1,25 @@
 # 更新日志
 建议：不要只聚焦于自己研究方向的论文，扩展知识面最重要。例如：文件夹 **相位恢复算法** 中也有好东西; 成像模型是多种的，可以参考算法创新等<br>
-[2025.11.8](##2025.11.8)<br>
-[2025.10.12](##2025.10.12)<br>
-[2025.10.11](##2025.10.11)<br>
+[2026.6.15](#2026615)<br>
+[2025.11.8](#2025118)<br>
+[2025.10.12](#20251012)<br>
+[2025.10.11](#20251011)<br>
+
+## 2026.6.15
+
+1.FP:(1)论文：Whole-field, high-resolution Fourier ptychography with neural pupil engineering;<br>
+Uncertainty-aware Fourier ptychography;<br>
+2.CP:(1)论文：Deep-ultraviolet ptychographic pocket-scope (DART)_ mesoscale lensless molecular imaging with label-free spectroscopic contrast;<br>
 
 ## 2025.11.8
+
 1. FP: (1)论文++ **特征域DUV-FP** "Deep-ultraviolet Fourier ptychography (DUV-FP) for labelfree biochemical imaging via feature-domain optimization";<br>
 **潜在波前** "Latent-wavefront Fourier ptychography for stained tissue microscopy";<br>
 **ADMM-FP** "Fourier Ptychographic Microscopy via Alternating Direction Method of Multipliers"<br>
 2. * 相位恢复算法/全息: (1)**时空正则化反演**"Motion-resolved, reference-free holographic imaging via spatiotemporally regularized inversion"<br>
 
 ## 2025.10.12
+
 1. FP: (1)论文++ **FP神经网络物理模型** [Solving Fourier ptychographic imaging problems via neural network modeling and TensorFlow](https://opg.optica.org/boe/fulltext.cfm?uri=boe-9-7-3306)(Biomedical Optics Express,2018)"; <br>
 **自适应步长算法** "Adaptive step-size strategy for noise-robust Fourier ptychographic microscopy"
 3. CP: (1)论文++ **CP光学加密**  "[Large-scale scattering-augmented optical encryption](https://www.nature.com/articles/s41467-024-54168-3)(Nature Communications,2024) {[code](https://github.com/bianlab/Scatterencryption)}";<br>
@@ -30,3 +39,4 @@
 (3)添加了**Natural products的代码** <br>
 2. CP：添加了**Natural products 的代码** <br>
 3. 基础知识：添加了**PDF-傅里叶光学导论（第四版中文版）** <br>
+
