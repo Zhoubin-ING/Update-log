@@ -1,16 +1,23 @@
 # 更新日志
 
 建议：不要只聚焦于自己研究方向的论文，扩展知识面最重要。例如：文件夹 **相位恢复算法** 中也有好东西; 成像模型是多种的，可以参考算法创新等<br>
+[2026.8.6](#202686)<br>
 [2026.6.15](#2026615)<br>
 [2025.11.8](#2025118)<br>
 [2025.10.12](#20251012)<br>
 [2025.10.11](#20251011)<br>
 
+## 2026.8.6
+
+1. 基础知识：
+   (1) 《信息光学数字实验室Matlab版》 [钱晓凡 编著] 2015年版<br>
+   (2)  Ptychography at all wavelengths
+
 ## 2026.6.15
 
-1.FP:(1)论文：Whole-field, high-resolution Fourier ptychography with neural pupil engineering;<br>
+1. FP:(1)论文：Whole-field, high-resolution Fourier ptychography with neural pupil engineering;<br>
 Uncertainty-aware Fourier ptychography;<br>
-2.CP:(1)论文：Deep-ultraviolet ptychographic pocket-scope (DART)_ mesoscale lensless molecular imaging with label-free spectroscopic contrast;<br>
+2. CP:(1)论文：Deep-ultraviolet ptychographic pocket-scope (DART)_ mesoscale lensless molecular imaging with label-free spectroscopic contrast;<br>
 
 ## 2025.11.8
 
